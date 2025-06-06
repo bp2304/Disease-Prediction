@@ -21,12 +21,19 @@ This project implements a complete machine learning pipeline using a Random Fore
 ## 📁 Project Structure
 
 Disease-Prediction/
+
 ├── data/
+
 │ ├── Training.csv
+
 │ └── Testing.csv
+
 ├── main.py
+
 ├── requirements.txt
+
 └── README.md
+
 
 ## 🚀 How to Run
 
