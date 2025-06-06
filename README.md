@@ -10,9 +10,9 @@ This project implements a complete machine learning pipeline using a Random Fore
 
 4.📈 Evaluation Metrics:
 
- a.Accuracy score
+   a.Accuracy score
 
- b.Confusion matrix (visualized with seaborn)
+   b.Confusion matrix (visualized with seaborn)
 
 5.📊 Feature Importance Visualization: Highlights the top 10 most important features based on Gini impurity.
 
@@ -37,14 +37,19 @@ pip install -r requirements.txt
 
 3.Run the script: python main.py
 
-##📊 Output
+## 📊 Output
 confusion_matrix.png: Heatmap of classification results.
 
 feature_importance.png: Bar chart of top 10 features.
 
-##🛠️ Dependencies
+## 🛠️ Dependencies
+
 1.pandas
+
 2.numpy
+
 3.scikit-learn
+
 4.matplotlib
+
 5.seaborn
